@@ -1,0 +1,16 @@
+¿Qué es un Constructor en POO?
+- Un constructor en Programación Orientada a Objetos (POO) es un método especial que se utiliza para inicializar un objeto cuando se crea una instancia de una clase. Su propósito principal es establecer el estado inicial del objeto asignando valores a sus atributos o realizando otras configuraciones necesarias.
+
+# Características principales:
+1)Nombre especial:
+- En Python, el constructor se llama __init__.
+  En otros lenguajes, como Java o C++, el constructor tiene el mismo nombre que la clase.
+  
+2)Se ejecuta automáticamente:
+- El constructor se invoca automáticamente cuando se crea un objeto con la palabra clave new (en algunos lenguajes) o al instanciar una clase en Python.
+
+3)No tiene valor de retorno explícito:
+- Su propósito no es devolver valores, sino inicializar el objeto.
+
+4)Personalización de objetos:
+- Puedes personalizar los valores iniciales de los atributos al crear el objeto.

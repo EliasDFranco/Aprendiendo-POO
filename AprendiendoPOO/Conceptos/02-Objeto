@@ -1,0 +1,31 @@
+¿Qué es un Objeto?**
+- Un objeto es una instancia específica de una clase en Programación Orientada a Objetos (POO). Piensa en un objeto como una "cosa" que tiene sus propias características y comportamientos.
+
+Por ejemplo, si tienes una clase llamada Perro, un objeto podría ser un perro específico, como un perro llamado Max.
+
+En este caso:
+- Las características del objeto podrían ser su color, raza o edad (llamadas atributos).
+  Los comportamientos del objeto serían cosas que puede hacer, como ladrar o correr (llamados métodos).
+
+Ejemplo en Python; 
+ # Definimos la clase Perro
+ class Perro:
+    # Método inicializador (constructor) para crear un objeto con nombre y edad
+    def __init__(self, nombre, edad):
+        self.nombre = nombre  # Atributo nombre
+        self.edad = edad      # Atributo edad
+
+    # Método para hacer que el perro ladre
+    def ladrar(self):
+        print("¡Guau! ¡Guau!")
+
+    # Método para mostrar información del perro
+    def mostrar_info(self):
+        print(f"Nombre: {self.nombre}, Edad: {self.edad} años")
+
+# Creamos un objeto (instancia) de la clase Perro
+mi_perro = Perro("Max", 5)
+
+# Usamos el objeto para acceder a sus métodos y atributos
+mi_perro.mostrar_info()  # Muestra: Nombre: Max, Edad: 5 años
+mi_perro.ladrar()        # Muestra: ¡Guau! ¡Guau!

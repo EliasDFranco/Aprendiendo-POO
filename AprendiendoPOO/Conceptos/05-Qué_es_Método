@@ -1,0 +1,5 @@
+¿Qué es un Método en Programación Orientada a Objetos?
+ - Un método en Programación Orientada a Objetos (POO) es una función que pertenece a una clase
+   y define el comportamiento de los objetos creados a partir de esa clase. 
+   Por ejemplo, un método podría ser **hablar()** en una clase **Persona**,
+   que permite que un objeto persona "hable".

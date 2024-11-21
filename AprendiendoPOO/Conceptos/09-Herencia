@@ -1,0 +1,9 @@
+¿Qué es la Herencia en POO?
+-  La herencia en Programación Orientada a Objetos (POO) es un mecanismo que permite crear nuevas clases basadas en clases existentes. Esto se utiliza para reutilizar código, organizar el software de manera jerárquica y establecer relaciones entre clases.
+
+  En términos simples, una clase hija (o subclase) hereda los atributos y métodos de una clase padre (o superclase), lo que significa que no es necesario volver a escribir el código ya existente en la clase padre.
+
+ # Características principales de la herencia:
+- Reutilización de código: La clase hija puede utilizar los métodos y atributos de la clase padre.
+- Extensibilidad: Las clases hijas pueden agregar nuevos métodos o atributos, o incluso sobrescribir los existentes (esto último se llama sobreescritura o overriding).
+- Jerarquía: Se crea una relación jerárquica que define "es un tipo de". Por ejemplo, un Coche es un tipo de Vehículo.

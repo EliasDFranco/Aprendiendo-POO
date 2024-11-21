@@ -1,0 +1,7 @@
+¿Qué son las funciones?
+-  Las funciones son bloques de código reutilizables que realizan una tarea específica. 
+   Se definen con la palabra clave def y pueden aceptar parámetros (valores de entrada) y devolver resultados.
+
+#Funciones con atributos
+- Son funciones que tienen parámetros, es decir, variables que reciben datos al ser llamadas.
+  Estos datos son los atributos o argumentos de la función.

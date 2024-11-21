@@ -1,0 +1,4 @@
+¿Qué es una clase en POO?
+- En Programación Orientada a Objetos (POO), una clase es como un "molde" o "plantilla" que define cómo serán los objetos que se crean a partir de ella. La clase especifica los atributos (características) y métodos (acciones) que cada objeto de ese tipo tendrá.
+
+- Imagina que tienes una clase llamada Coche. La clase Coche define cómo serán todos los coches, pero no es un coche en sí. Solo cuando creas un objeto de la clase Coche, como mi_coche = Coche(), tienes un coche específico.

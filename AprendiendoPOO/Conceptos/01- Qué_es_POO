@@ -1,0 +1,9 @@
+¿Qué es Programación Orientado a Objetos?
+- POO significa Programación Orientada a Objetos. Es un paradigma de programación que organiza el código en objetos, que representan entidades con propiedades (características) y métodos (acciones). La POO ayuda a hacer el código más estructurado y fácil de mantener al permitir que objetos interactúen entre sí y reusando código.
+
+***Los cuatro pilares de la POO son:***
+
+1. **Abstracción**: simplificar la realidad, enfocándose solo en lo necesario.
+2. **Encapsulamiento**: ocultar detalles internos, exponiendo solo lo necesario.
+3. **Herencia**: reutilizar características de otros objetos.
+4. **Polimorfismo**: permitir que los objetos se comporten de diferentes maneras.
