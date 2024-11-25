@@ -1,0 +1,11 @@
+¿Qué es f-strings?
+- Las f-strings (formatted string literals) son una forma moderna, eficiente y legible de formatear cadenas de texto en Python.
+    Fueron introducidas en Python 3.6 y permiten insertar expresiones directamente dentro de cadenas utilizando llaves {}.
+
+¿Cómo funcionan?
+-  Una f-string es una cadena que comienza con una f o F antes de las comillas. Dentro de la cadena, puedes incluir variables o expresiones entre llaves {} y Python las evaluará e insertará en el texto.
+
+# Ventajas de las f-strings
+1)Simplicidad y legibilidad: Combina texto y valores en una sola línea de forma clara.
+2)Rendimiento: Son más rápidas que otros métodos de formateo, como .format() o concatenación con +.
+3)Flexibilidad: Soportan expresiones complejas directamente dentro de las llaves.
