@@ -1,0 +1,7 @@
+¿Qué es Super()?
+-  En Python, super() es una función que se utiliza en el contexto de la Programación Orientada a Objetos (POO) para llamar métodos de una clase padre o base desde una clase hija o derivada. Su principal propósito es facilitar la herencia y la reutilización de código.
+
+# Propósito de super()
+1)Acceder a métodos de la clase padre: Permite llamar métodos o inicializadores de la clase base desde una subclase.
+2)Evitar referenciar directamente la clase padre: Hace que el código sea más flexible y facilite el mantenimiento.
+3)Soporta herencia múltiple: En un esquema de herencia múltiple, super() sigue el Method Resolution Order (MRO) para determinar qué método de qué clase debe ejecutarse
