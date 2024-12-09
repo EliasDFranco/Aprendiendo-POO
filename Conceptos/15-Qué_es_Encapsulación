@@ -1,0 +1,11 @@
+¿Qué es el encapsulamiento?
+-- El encapsulamiento es uno de los pilares fundamentales de la Programación Orientada a Objetos (POO). Se refiere a la práctica de restringir el acceso directo a ciertos componentes de un objeto y controlar cómo estos pueden ser modificados o utilizados. Esto se logra utilizando modificadores de acceso, como privado, protegido o público, dependiendo del lenguaje de programación.
+
+#Conceptos Clave del Encapsulamiento
+1)Protección de datos: Los atributos y métodos internos de una clase se ocultan del mundo exterior, lo que evita que sean manipulados directamente.
+Solo se puede acceder a estos datos a través de métodos específicos llamados getters (para obtener valores) y setters (para establecer valores).
+
+2)Control de acceso:Define qué partes de un programa pueden acceder o modificar los datos de un objeto.
+Esto garantiza que los datos solo se usen de la forma prevista.
+
+3)Reducción de errores y mayor seguridad: Al limitar el acceso a los datos, se evita que se realicen cambios inesperados o incorrectos, lo que protege la integridad del objeto.
